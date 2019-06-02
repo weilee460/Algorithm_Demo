@@ -1,2 +1,3 @@
-# Algorithm_Demo
-algorithm train
+# Algorithm Demo
+
+算法练习版本库，工作中也需要经常刷一刷算法题，防止脑袋退化。
